@@ -1,6 +1,6 @@
 # Instance and Results for DPPFSP-ES
 
-- **Revised manuscript.** [Download the benchmark instances and computational results (ZIP)](https://github.com/FuliXiong/Instance-and-Results-for-DPPFSP-ES/releases/latest/download/Instance-and-Results-for-DPPFSP-ES.zip). This archive is available under **Releases → Assets**.
+- **Revised manuscript.** [Download the benchmark instances and computational results (ZIP)](https://github.com/FuliXiong/Instance-and-Results-for-DPPFSP-ES/releases/latest/download/Instance-and-Results-for-DPPFSP-ES.zip). This archive is available under **Releases → Assets**. A fixed snapshot of the revised dataset is also archived on Zenodo: **https://doi.org/10.5281/zenodo.24271133**.
 - **Original submission.** [DataResultsDPPFSP.zip](./DataResultsDPPFSP.zip) contains the results for the original manuscript.
 
 This repository contains the benchmark instances and computational results for the paper *Scheduling Distributed Parallel Permutation Flowshop with Factory Eligibility and Shared Resources: Deterministic and Stochastic Cases*, which studies the **Distributed Parallel Permutation Flowshop Scheduling Problem with factory Eligibility and Shared resources (DPPFSP-ES)**.
